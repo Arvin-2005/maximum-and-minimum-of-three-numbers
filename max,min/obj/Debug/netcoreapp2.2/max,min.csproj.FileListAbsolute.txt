@@ -1,0 +1,11 @@
+C:\Users\sanaypc\source\repos\max,min\max,min\bin\Debug\netcoreapp2.2\max,min.deps.json
+C:\Users\sanaypc\source\repos\max,min\max,min\bin\Debug\netcoreapp2.2\max,min.runtimeconfig.json
+C:\Users\sanaypc\source\repos\max,min\max,min\bin\Debug\netcoreapp2.2\max,min.runtimeconfig.dev.json
+C:\Users\sanaypc\source\repos\max,min\max,min\bin\Debug\netcoreapp2.2\max,min.dll
+C:\Users\sanaypc\source\repos\max,min\max,min\bin\Debug\netcoreapp2.2\max,min.pdb
+C:\Users\sanaypc\source\repos\max,min\max,min\obj\Debug\netcoreapp2.2\max,min.csprojAssemblyReference.cache
+C:\Users\sanaypc\source\repos\max,min\max,min\obj\Debug\netcoreapp2.2\max,min.csproj.CoreCompileInputs.cache
+C:\Users\sanaypc\source\repos\max,min\max,min\obj\Debug\netcoreapp2.2\max,min.AssemblyInfoInputs.cache
+C:\Users\sanaypc\source\repos\max,min\max,min\obj\Debug\netcoreapp2.2\max,min.AssemblyInfo.cs
+C:\Users\sanaypc\source\repos\max,min\max,min\obj\Debug\netcoreapp2.2\max,min.dll
+C:\Users\sanaypc\source\repos\max,min\max,min\obj\Debug\netcoreapp2.2\max,min.pdb
